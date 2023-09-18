@@ -1,5 +1,5 @@
 {
-  "name": "mini-monitor-sdk",
+  "name": "mini-frontend-sdk",
   "version": "1.0.0",
   "description": "a sdk for frontend monitor",
   "main": "src/index.js",
