@@ -1,0 +1,26 @@
+{
+  "name": "mini-monitor-sdk",
+  "version": "1.0.0",
+  "description": "a sdk for frontend monitor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "serve": "rollup -c -w"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "lambda-lambda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambda-lambda/mini-monitor-sdk/issues"
+  },
+  "homepage": "https://github.com/lambda-lambda/mini-monitor-sdk#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "@rollup/plugin-babel": "^5.3.1",
+    "rollup": "^2.77.2",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
